@@ -1,0 +1,13 @@
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Release\LegacyIntegrator\LIFDocHttpModule\Infosys.Lif.DocHttpModule.dll
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Release\LegacyIntegrator\LIFDocHttpModule\Infosys.Lif.DocHttpModule.pdb
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Framework_OpenSource_branch\LegacyIntegrator\LIFDocHttpModule\obj\Debug\LIFDocHttpModule.csproj.CoreCompileInputs.cache
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Framework_OpenSource_branch\LegacyIntegrator\LIFDocHttpModule\obj\Debug\Infosys.Lif.DocHttpModule.dll
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Framework_OpenSource_branch\LegacyIntegrator\LIFDocHttpModule\obj\Debug\Infosys.Lif.DocHttpModule.pdb
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Release\LegacyIntegrator\LIFDocHttpModule\Infosys.Lif.DocHttpModule.dll
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Release\LegacyIntegrator\LIFDocHttpModule\Infosys.Lif.DocHttpModule.pdb
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\Release\LegacyIntegrator\LIFDocHttpModule\Infosys.Lif.DocHttpModule.dll
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\Release\LegacyIntegrator\LIFDocHttpModule\Infosys.Lif.DocHttpModule.pdb
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\LegacyIntegrator\LIFDocHttpModule\obj\Debug\LIFDocHttpModule.csproj.AssemblyReference.cache
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\LegacyIntegrator\LIFDocHttpModule\obj\Debug\LIFDocHttpModule.csproj.CoreCompileInputs.cache
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\LegacyIntegrator\LIFDocHttpModule\obj\Debug\Infosys.Lif.DocHttpModule.dll
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\LegacyIntegrator\LIFDocHttpModule\obj\Debug\Infosys.Lif.DocHttpModule.pdb

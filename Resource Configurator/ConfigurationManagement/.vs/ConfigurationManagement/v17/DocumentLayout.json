@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\IBM Repo\\Intelligent-Bot-Management\\Resource Configurator\\ConfigurationManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F54AA48-9A65-4461-9EB2-B4837A246B84}|BusinessComponent\\BusinessComponent.csproj|c:\\ibm repo\\intelligent-bot-management\\resource configurator\\configurationmanagement\\businesscomponent\\uipathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F54AA48-9A65-4461-9EB2-B4837A246B84}|BusinessComponent\\BusinessComponent.csproj|solutionrelative:businesscomponent\\uipathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F54AA48-9A65-4461-9EB2-B4837A246B84}|BusinessComponent\\BusinessComponent.csproj|C:\\IBM Repo\\Intelligent-Bot-Management\\Resource Configurator\\ConfigurationManagement\\businesscomponent\\resourcemodelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F54AA48-9A65-4461-9EB2-B4837A246B84}|BusinessComponent\\BusinessComponent.csproj|solutionrelative:businesscomponent\\resourcemodelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UiPathService.cs",
+              "DocumentMoniker": "C:\\IBM Repo\\Intelligent-Bot-Management\\Resource Configurator\\ConfigurationManagement\\BusinessComponent\\UiPathService.cs",
+              "RelativeDocumentMoniker": "BusinessComponent\\UiPathService.cs",
+              "ToolTip": "C:\\IBM Repo\\Intelligent-Bot-Management\\Resource Configurator\\ConfigurationManagement\\BusinessComponent\\UiPathService.cs",
+              "RelativeToolTip": "BusinessComponent\\UiPathService.cs",
+              "ViewState": "AQIAAGQBAAAAAAAAAAAmwIMBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:40:35.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResourceModelBuilder.cs",
+              "DocumentMoniker": "C:\\IBM Repo\\Intelligent-Bot-Management\\Resource Configurator\\ConfigurationManagement\\BusinessComponent\\ResourceModelBuilder.cs",
+              "RelativeDocumentMoniker": "BusinessComponent\\ResourceModelBuilder.cs",
+              "ToolTip": "C:\\IBM Repo\\Intelligent-Bot-Management\\Resource Configurator\\ConfigurationManagement\\BusinessComponent\\ResourceModelBuilder.cs",
+              "RelativeToolTip": "BusinessComponent\\ResourceModelBuilder.cs",
+              "ViewState": "AQIAALIMAAAAAAAAAAAQwMUMAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:48:47.542Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

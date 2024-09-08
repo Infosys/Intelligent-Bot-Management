@@ -1,0 +1,34 @@
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Framework_OpenSource_branch\MemoryDocAdapter\bin\Debug\Infosys.Lif.MemoryDoc.dll.config
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Framework_OpenSource_branch\MemoryDocAdapter\bin\Debug\Infosys.Lif.MemoryDoc.dll
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Framework_OpenSource_branch\MemoryDocAdapter\bin\Debug\Infosys.Lif.MemoryDoc.pdb
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Framework_OpenSource_branch\MemoryDocAdapter\bin\Debug\Infosys.Lif.LegacyCommon.dll
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Framework_OpenSource_branch\MemoryDocAdapter\bin\Debug\Infosys.Lif.LegacyIntegratorService.dll
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Framework_OpenSource_branch\MemoryDocAdapter\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Framework_OpenSource_branch\MemoryDocAdapter\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Framework_OpenSource_branch\MemoryDocAdapter\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Framework_OpenSource_branch\MemoryDocAdapter\bin\Debug\Infosys.Lif.LegacyCommon.pdb
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Framework_OpenSource_branch\MemoryDocAdapter\bin\Debug\Infosys.Lif.LegacyCommon.xml
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Framework_OpenSource_branch\MemoryDocAdapter\bin\Debug\Infosys.Lif.LegacyIntegratorService.pdb
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Framework_OpenSource_branch\MemoryDocAdapter\bin\Debug\Infosys.Lif.LegacyIntegratorService.xml
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Framework_OpenSource_branch\MemoryDocAdapter\obj\Debug\MemoryDocAdapter.csproj.AssemblyReference.cache
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Framework_OpenSource_branch\MemoryDocAdapter\obj\Debug\MemoryDocAdapter.csproj.CoreCompileInputs.cache
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Framework_OpenSource_branch\MemoryDocAdapter\obj\Debug\MemoryDocAdapter.csproj.CopyComplete
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Framework_OpenSource_branch\MemoryDocAdapter\obj\Debug\Infosys.Lif.MemoryDoc.dll
+D:\TFS\ManaExpertServices\Framework\LegacyIntegration\LIF\Code\Framework_OpenSource_branch\MemoryDocAdapter\obj\Debug\Infosys.Lif.MemoryDoc.pdb
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\MemoryDocAdapter\bin\Debug\Infosys.Lif.MemoryDoc.dll.config
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\MemoryDocAdapter\bin\Debug\Infosys.Lif.MemoryDoc.dll
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\MemoryDocAdapter\bin\Debug\Infosys.Lif.MemoryDoc.pdb
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\MemoryDocAdapter\bin\Debug\Infosys.Lif.LegacyCommon.dll
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\MemoryDocAdapter\bin\Debug\Infosys.Lif.LegacyIntegratorService.dll
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\MemoryDocAdapter\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\MemoryDocAdapter\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\MemoryDocAdapter\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\MemoryDocAdapter\bin\Debug\Infosys.Lif.LegacyCommon.pdb
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\MemoryDocAdapter\bin\Debug\Infosys.Lif.LegacyCommon.xml
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\MemoryDocAdapter\bin\Debug\Infosys.Lif.LegacyIntegratorService.pdb
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\MemoryDocAdapter\bin\Debug\Infosys.Lif.LegacyIntegratorService.xml
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\MemoryDocAdapter\obj\Debug\MemoryDocAdapter.csproj.AssemblyReference.cache
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\MemoryDocAdapter\obj\Debug\MemoryDocAdapter.csproj.CoreCompileInputs.cache
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\MemoryDocAdapter\obj\Debug\MemoryDo.F560E3B7.Up2Date
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\MemoryDocAdapter\obj\Debug\Infosys.Lif.MemoryDoc.dll
+C:\SuperbotRepo Mar18 Backup\Intelligent-Bot-Management-\Data Integration Framework\MemoryDocAdapter\obj\Debug\Infosys.Lif.MemoryDoc.pdb
