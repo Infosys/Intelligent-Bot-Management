@@ -10,10 +10,10 @@ https://user-images.githubusercontent.com/107669139/184342953-b94ac4b7-a872-4212
 ## Process Flow
 https://user-images.githubusercontent.com/107669139/184343018-2b7af8ac-c5f4-4976-9f85-314c974754fb.mp4
 ###### Note - Presentation used in the video is shared below
-## Demo – How to Auto Discover components of an RPA platform
+## Demo â€“ How to Auto Discover components of an RPA platform
 https://user-images.githubusercontent.com/107669139/184343087-b76e887f-f2ed-4949-9839-29e30e747b82.mp4
 ###### Note - Presentation used in the video is shared below
-## Demo – How To Monitor and Self-heal/Remediate Components of RPA Platform
+## Demo â€“ How To Monitor and Self-heal/Remediate Components of RPA Platform
 #### Simulation
 https://user-images.githubusercontent.com/103421849/186360773-593159aa-9c9d-4d52-a64c-a76ea4c7ce16.mp4
 ###### Note - Presentation used in the video is shared below
@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/103421849/186361092-2207e550-d821-443b
 #### Self Healing
 https://user-images.githubusercontent.com/103421849/186378347-4d9dc493-1362-447b-9a97-6b5fa85a58f6.mp4
 ###### Note - Presentation used in the video is shared below
-## Demo – Sample Custom RPA Operations Dashboard Reports
+## Demo â€“ Sample Custom RPA Operations Dashboard Reports
 https://user-images.githubusercontent.com/103421849/186440622-38f54028-f3b6-40cf-b193-d4dd4f32545c.mp4
 ###### Note - Presentation used in the video is shared below
-[InfosysIntelligentBotManagement_Webinar_Deck.pdf](https://github.com/Infosys/Intelligent-Bot-Management-/files/9416825/InfosysIntelligentBotManagement_Webinar_Deck.pdf)
+[InfosysIntelligentBotManagement_Webinar_Deck.pdf](https://github.com/Infosys/Intelligent-Bot-Management/blob/main/Documents/InfosysIntelligentBotManagement_Webinar_Deck.pdf)
